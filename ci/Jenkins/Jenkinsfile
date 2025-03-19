@@ -6,7 +6,7 @@ pipeline {
   stages {
     stage('Checkout') {
       steps {
-        git branch: 'main', url: 'https://github.com/shambhaveesrivastava12/devops-git.git'
+        git branch: 'main', url: 'https://github.com/shambhaveesrivastava12/devops-git.git', credentialsId: 'github'
       }
     }
     stage('Build and Test') {
