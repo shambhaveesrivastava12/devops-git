@@ -1,7 +1,7 @@
 # Building a DevOps CI/CD Pipeline Locally: GitHub, Jenkins, Maven, SonarQube, Docker, DockerHub, ArgoCD, Helm, Kubernetes, Prometheus, Grafana, Filebeat, OpenSearch, and Kibana
 
 
-![Flow Diagram](https://github.com/deepakkr35/devops-demo-project/blob/main/devops-demo-project.gif)
+<!-- ![Flow Diagram](https://github.com/deepakkr35/devops-demo-project/blob/main/devops-demo-project.gif) -->
 
 ## Table of Contents
 - [Application Code](#application-code)
@@ -38,13 +38,13 @@ The `helm` directory holds helm charts for deploying applications on Kubernetes.
 
 📈 **The journey covered everything from setting up tools to deploying demo java app, ensuring data persistence, and implementing CI/CD pipelines.**
 
-## Getting Started
+<!-- ## Getting Started
 To get started with this project, refer to our [comprehensive guide](https://medium.com/@deepakkr35/building-a-devops-ci-cd-pipeline-locally-github-jenkins-maven-sonarqube-docker-dockerhub-ba5cf7d58074) that walks you through detailed steps.
 
 ## Contributing
 We welcome contributions! If you have ideas for enhancements or find any issues, please open a pull request or file an issue.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE). -->
 
 Happy Coding! 🚀
